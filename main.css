@@ -1,0 +1,31 @@
+html {
+  scroll-behavior: smooth; }
+
+.p {
+  font-size: 18px; }
+
+.jumbotron {
+  background: #000000 url(images/monitor.jpeg) repeat left center;
+  background-size: cover;
+  color: white; }
+
+body {
+  background-color: #d8d8d8; }
+
+.h1-pr {
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.54);
+  text-decoration: underline; }
+
+.social-link {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  border-radius: 50%;
+  transition: all 0.3s;
+  font-size: 0.9rem; }
+
+/*# sourceMappingURL=main.css.map */
